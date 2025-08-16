@@ -1,0 +1,7 @@
+git push or git push origin main = pushes to github
+
+git add filname = adds a file to workflow
+git commit -m "Message" = commits file with a description
+
+git status = check what's in workflow
+git log = shows the progress
